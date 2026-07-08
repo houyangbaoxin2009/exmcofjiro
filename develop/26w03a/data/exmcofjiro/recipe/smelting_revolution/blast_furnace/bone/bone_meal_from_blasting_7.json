@@ -1,0 +1,9 @@
+{
+	"result":{
+		"id":"bone_meal"
+	},
+	"ingredient":"melon",
+	"type":"blasting",
+	"experience":0.50,
+	"cookingtime":80
+}

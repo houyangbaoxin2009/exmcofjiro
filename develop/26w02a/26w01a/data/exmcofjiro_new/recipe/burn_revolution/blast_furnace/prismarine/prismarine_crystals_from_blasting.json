@@ -1,0 +1,9 @@
+{
+	"result":{
+		"id":"prismarine_crystals"
+	},
+	"ingredient":"nautilus_shell",
+	"type":"blasting",
+	"experience":0.75,
+	"cookingtime":250
+}

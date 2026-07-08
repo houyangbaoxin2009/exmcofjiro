@@ -1,0 +1,28 @@
+{
+  "category": "misc",
+  "group": "dry_ghast",
+  "type": "minecraft:crafting_shaped",
+  "result": {
+    "id": "minecraft:dried_ghast",
+    "count": 1
+  },
+  "pattern": [
+    "ABC",
+    "DEF",
+    "HIJ"
+  ],
+  "key": {
+    "A": "minecraft:ghast_tear",
+    "B": "minecraft:ghast_tear",
+    "C": "minecraft:ghast_tear",
+    "D": "minecraft:ghast_tear",
+    "E": [
+      "minecraft:soul_sand",
+      "soul_soil"
+    ],
+    "F": "minecraft:ghast_tear",
+    "H": "minecraft:ghast_tear",
+    "I": "minecraft:ghast_tear",
+    "J": "minecraft:ghast_tear"
+  }
+}

@@ -1,0 +1,9 @@
+{
+	"result":{
+		"id":"iron_ingot"
+	},
+	"ingredient":"chainmail_helmet",
+	"type":"blasting",
+	"experience":1.5,
+	"cookingtime":650
+}

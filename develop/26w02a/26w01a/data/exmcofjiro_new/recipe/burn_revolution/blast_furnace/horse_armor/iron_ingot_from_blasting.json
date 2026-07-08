@@ -1,0 +1,9 @@
+{
+	"result":{
+		"id":"iron_ingot"
+	},
+	"ingredient":"iron_horse_armor",
+	"type":"blasting",
+	"experience":1.0,
+	"cookingtime":600
+}

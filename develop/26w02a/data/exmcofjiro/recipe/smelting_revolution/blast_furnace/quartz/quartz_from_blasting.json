@@ -1,0 +1,9 @@
+{
+	"result":{
+		"id":"quartz"
+	},
+	"ingredient":"amethyst_shard",
+	"type":"blasting",
+	"experience":0.75,
+	"cookingtime":250
+}

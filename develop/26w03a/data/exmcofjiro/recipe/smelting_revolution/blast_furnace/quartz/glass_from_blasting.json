@@ -1,0 +1,9 @@
+{
+	"result":{
+		"id":"glass"
+	},
+	"ingredient":"quartz",
+	"type":"blasting",
+	"experience":0.45,
+	"cookingtime":160
+}

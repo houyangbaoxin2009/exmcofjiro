@@ -1,0 +1,11 @@
+{
+  "category": "misc",
+  "type": "minecraft:crafting_shapeless",
+  "result": {
+    "id": "sugar",
+    "count": 1
+  },
+  "ingredients": [
+    "beetroot"
+  ]
+}

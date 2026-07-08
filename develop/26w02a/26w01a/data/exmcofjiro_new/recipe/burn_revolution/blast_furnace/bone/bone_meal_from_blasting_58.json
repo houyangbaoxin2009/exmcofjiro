@@ -1,0 +1,9 @@
+{
+	"result":{
+		"id":"bone_meal"
+	},
+	"ingredient":"pumpkin",
+	"type":"blasting",
+	"experience":0.75,
+	"cookingtime":100
+}

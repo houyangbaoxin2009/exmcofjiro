@@ -1,0 +1,9 @@
+{
+	"result":{
+		"id":"bone_meal"
+	},
+	"ingredient":"bamboo_block",
+	"type":"blasting",
+	"experience":1.0,
+	"cookingtime":120
+}
