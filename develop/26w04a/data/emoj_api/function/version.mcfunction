@@ -18,5 +18,5 @@
 
 scoreboard objectives add emojapi_ver dummy
 scoreboard players set emojapi emojapi_ver 1
-data modify storage emoj_api:ver ver set value 1
+data modify storage emoj_api version set value 1
 return 1
