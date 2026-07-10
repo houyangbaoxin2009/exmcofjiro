@@ -15,4 +15,5 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 # ----------------------------------------------------------------------------
+data modify storage emoj_api:player foodLevel set from entity @s foodLevel
 execute run data get entity @s foodLevel
