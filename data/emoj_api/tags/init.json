@@ -1,0 +1,8 @@
+{
+    "replace": true,
+    "values": [
+        "emoj_api:init",
+        "emoj_api:reload",
+        "emoj_api:unload"
+    ]
+}

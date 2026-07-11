@@ -1,0 +1,9 @@
+{
+	"result":{
+		"id":"iron_ingot"
+	},
+	"ingredient":"chainmail_boots",
+	"type":"blasting",
+	"experience":1.25,
+	"cookingtime":600
+}
