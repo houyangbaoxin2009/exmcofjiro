@@ -1,9 +1,0 @@
-{
-	"result":{
-		"id":"copper_block"
-	},
-	"ingredient":"oxidized_copper",
-	"type":"blasting",
-	"experience":0.80,
-	"cookingtime":150
-}

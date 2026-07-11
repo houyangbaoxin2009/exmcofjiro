@@ -1,9 +1,0 @@
-{
-	"result":{
-		"id":"bone_meal"
-	},
-	"ingredient":"jack_o_lantern",
-	"type":"blasting",
-	"experience":0.5,
-	"cookingtime":70
-}

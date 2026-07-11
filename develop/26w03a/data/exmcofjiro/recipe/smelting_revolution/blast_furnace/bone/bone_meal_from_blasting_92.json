@@ -1,9 +1,0 @@
-{
-	"result":{
-		"id":"bone_meal"
-	},
-	"ingredient":"carved_pumpkin",
-	"type":"blasting",
-	"experience":0.30,
-	"cookingtime":50
-}

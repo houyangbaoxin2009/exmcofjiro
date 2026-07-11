@@ -1,9 +1,0 @@
-{
-	"result":{
-		"id":"iron_ingot"
-	},
-	"ingredient":"chainmail_leggings",
-	"type":"blasting",
-	"experience":2.5,
-	"cookingtime":700
-}

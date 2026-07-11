@@ -1,9 +1,0 @@
-{
-	"result":{
-		"id":"bone_meal"
-	},
-	"ingredient":"hay_block",
-	"type":"blasting",
-	"experience":0.30,
-	"cookingtime":50
-}

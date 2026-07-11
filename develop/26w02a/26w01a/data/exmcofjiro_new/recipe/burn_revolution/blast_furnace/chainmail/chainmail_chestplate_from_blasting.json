@@ -1,9 +1,0 @@
-{
-	"result":{
-		"id":"iron_ingot"
-	},
-	"ingredient":"chainmail_chestplate",
-	"type":"blasting",
-	"experience":2.75,
-	"cookingtime":750
-}
