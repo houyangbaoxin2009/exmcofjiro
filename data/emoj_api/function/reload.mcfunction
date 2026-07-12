@@ -16,6 +16,7 @@
 # limitations under the License.
 # ----------------------------------------------------------------------------
 
-scoreboard objectives remove emojapi_ver
-scoreboard players reset emojapi
+function emoj_api:unload
 function emoj_api:init
+
+return 1

@@ -16,7 +16,11 @@
 # limitations under the License.
 # ----------------------------------------------------------------------------
 
+scoreboard objectives remove emojapi_cver
 scoreboard objectives remove emojapi_ver
 scoreboard players reset emojapi
+
 data remove storage emoj_api ver
 data remove storage emoj_api:player foodLevel
+
+return 1
