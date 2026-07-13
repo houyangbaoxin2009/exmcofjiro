@@ -16,4 +16,7 @@
 # limitations under the License.
 # ----------------------------------------------------------------------------
 
-random value 0..1
+data modify storage emoj_api:player foodSaturationLevel set from entity @s foodSaturationLevel
+execute run data get entity @s foodSaturationLevel
+
+return run execute run data get entity @s foodSaturationLevel

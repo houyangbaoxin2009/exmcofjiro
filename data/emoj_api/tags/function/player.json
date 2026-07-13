@@ -1,0 +1,9 @@
+{
+    "replace": true,
+    "values": [
+        "emoj_api:player/foodLevel",
+        "emoj_api:player/foodExhaustionLevel",
+        "emoj_api:player/foodSaturationLevel",
+        "emoj_api:player/foodTickTimer"
+    ]
+}

@@ -16,4 +16,7 @@
 # limitations under the License.
 # ----------------------------------------------------------------------------
 
-random value 0..1
+data modify storage emoj_api:player foodTickTimer set from entity @s foodTickTimer
+execute run data get entity @s foodTickTimer
+
+return run execute run data get entity @s foodTickTimer
