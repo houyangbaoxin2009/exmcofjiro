@@ -15,8 +15,3 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 # ----------------------------------------------------------------------------
-
-data modify storage emoj_api:player foodTickTimer set from entity @s foodTickTimer
-execute run data get entity @s foodTickTimer
-
-return run execute run data get entity @s foodTickTimer

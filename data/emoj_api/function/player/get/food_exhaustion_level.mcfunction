@@ -15,4 +15,8 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 # ----------------------------------------------------------------------------
-random value 0..1
+
+#获取消耗度
+
+data modify storage emoj_api:player foodExhaustionLevel set from entity @s foodExhaustionLevel
+execute run data get entity @s foodExhaustionLevel

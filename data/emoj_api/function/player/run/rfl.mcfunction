@@ -15,8 +15,3 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 # ----------------------------------------------------------------------------
-
-data modify storage emoj_api:player foodSaturationLevel set from entity @s foodSaturationLevel
-execute run data get entity @s foodSaturationLevel
-
-return run execute run data get entity @s foodSaturationLevel
