@@ -16,4 +16,9 @@
 # limitations under the License.
 # ----------------------------------------------------------------------------
 
-say EXMCofJIro_26w04a
+#常规版本代号
+scoreboard objectives add emojapi_ver dummy
+scoreboard players set emojapi emojapi_ver 1
+data modify storage emoj_api version set value 1
+#成功
+return 1

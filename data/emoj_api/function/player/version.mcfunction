@@ -16,6 +16,13 @@
 # limitations under the License.
 # ----------------------------------------------------------------------------
 
-tellraw @s [{text: "[EMOJAPI Doc]", color: "dark_aqua", click_event: {action: "open_url", url: "https://doc.franj2.top/emojapi"}, hover_event: {action: "show_text", value: "Click to open URL"}}]
-
+#常规版本代号
+scoreboard objectives add emojapi_ver dummy
+scoreboard players set emojapi emojapi_ver 1
+data modify storage emoj_api version set value 1
+#内核版本代号
+scoreboard objectives add emojapi_cver dummy
+scoreboard players set emojapi emojapi_cver 1
+data modify storage emoj_api core_version set value 1
+#成功
 return 1

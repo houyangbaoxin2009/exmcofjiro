@@ -1,6 +1,7 @@
 {
     "replace": true,
     "values": [
-        "emoj_api:help"
+        "emoj_api:help",
+        "emoj_api:player/help"
     ]
 }

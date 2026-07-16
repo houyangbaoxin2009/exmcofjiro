@@ -1,6 +1,6 @@
 {
     "values": [
-        "exmcofjiro:load",
+        "exmcofjiro:init",
         "emoj_api:init"
     ]
 }
